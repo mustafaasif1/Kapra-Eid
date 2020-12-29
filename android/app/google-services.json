@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "713736850446",
+    "project_id": "kapraeid",
+    "storage_bucket": "kapraeid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713736850446:android:8635bbc90e5c45e361c05f",
+        "android_client_info": {
+          "package_name": "com.clothes.KapraEid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713736850446-0valdtqq6vshh3qkurcdl471pv98lsrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo80dh9UE_GkzZVUgW2XhSyh6c-vHhQlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713736850446-0valdtqq6vshh3qkurcdl471pv98lsrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
